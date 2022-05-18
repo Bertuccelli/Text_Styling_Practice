@@ -1,0 +1,51 @@
+h1 {
+    background-color: black;
+    height: 47px;
+    margin: 7px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.cloud {
+    color: aquamarine;
+    font-weight: bold;
+    font-family: cursive;
+}
+.my {
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    height: 35px;
+    text-align: center;
+    font-weight: lighter;
+    font-style: normal;
+    margin: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    
+}
+.projects {
+    font-style: oblique;
+        font-weight: normal;
+        font-family: sans-serif;
+        padding-top: 50px;
+        padding-bottom: 50px;
+}
+h3 {
+    text-align: right;
+    background-color: lightblue;
+    color: darkblue;
+    text-decoration: underline;
+    margin: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.contact {
+    padding-right: 15px;
+}
